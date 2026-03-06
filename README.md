@@ -2,7 +2,9 @@
 
 ## 🎓 Citation
 
-If you need to use this work in your research, its paper is under revision. So, contact authors.
+> **Authors of Notebook**: Raj Bhattarai (*iamrajbhattarai@vt.edu*), Fangzheng Lyu (*fangzheng@vt.edu*). GeoCompute Lab, Virginia Tech
+
+> Bhattarai, R., Wang, S., Song, Y., Ma. X., Kang, Y., Michels, A, Lyu, F. MURD-ViT: Multimodal Urban Retrofitting Detection Using Street View Imagery and Demographic Data. In review at  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 ---
 
