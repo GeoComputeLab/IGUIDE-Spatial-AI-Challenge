@@ -1,5 +1,11 @@
 # MURD-ViT: Urban Retrofitting Detection with Vision Transformer
 
+## 🎓 Citation
+
+If you need to use this work in your research, its paper is under revision. So, contact authors.
+
+---
+
 ![MURD-ViT Architecture](data/figures_low/architecture.png)
 
 **MURD-ViT** (Multimodal Urban Retrofitting Detection - Vision Transformer) is a deep learning pipeline designed to detect urban retrofitting interventions—micro-scale upgrades to existing urban spaces—using temporal Google Street View (GSV) imagery and demographic data.
@@ -107,9 +113,3 @@ The model is evaluated based on its ability to identify "Where, When, and What" 
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🎓 Citation
-
-If you need to use this work in your research, its paper is under revision. So, contact authors.
