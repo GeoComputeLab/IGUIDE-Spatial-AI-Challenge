@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+desktop.ini
+Model_Checkpoints/*.pth
+Model_Checkpoints/Sample_Checkpoints/*.pth
+logs/*txt
+*:Zone.Identifier
