@@ -164,7 +164,7 @@ The `UrbanRetrofittingDataset` class (inherited from `torch.utils.data.Dataset`)
 2.  **Temporal Pairing**: For a given row, the loader fetches two images: one corresponding to the `Start` date and one to the `End` date from the hierarchical folder structure.
 3.  **Transformations**:
     - Images are resized to `224x224`.
-    - Normalized using ImageNet statistics (`mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]`).
+    - Normalized using image statistics (`mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]`).
     - Training data undergoes augmentation (Random Horizontal Flip, Rotation, Color Jitter).
 
 ## How Data Feeds into the MURD-ViT Model
