@@ -32,7 +32,7 @@ The `labels.xlsx` file serves as the primary metadata source for loading image p
 
 | Column                   | Description                                           |
 | :----------------------- | :---------------------------------------------------- |
-| `ID`                     | Census Block Group ID (FIPS code)                     |
+| `ID`                     | Census Block Group ID (GEOID code)                    |
 | `Latitude`               | Latitude coordinate of the GSV location               |
 | `Longitude`              | Longitude coordinate of the GSV location              |
 | `Heading`                | Direction of the camera (0, 90, 180, 270)             |
