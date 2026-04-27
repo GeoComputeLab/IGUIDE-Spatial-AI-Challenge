@@ -108,7 +108,7 @@ In the notebook, toggle `RUN_SAMPLE = True` to use the sample dataset provided i
 
 The model is evaluated based on its ability to identify "Where, When, and What" retrofitting occurred. Due to the high imbalance (most locations experience "No Change"), performance is tracked via per-class accuracy and Top-2 accuracy.
 
-![Model Prediction](data/figures_low/model_prediction.png)
+![Model Prediction](data/figures_low/prediction_viz_with_attention.png)
 
 ---
 
